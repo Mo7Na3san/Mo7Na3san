@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mo7Na3san
 - 👀 I’m interested in e commerce
-- 🌱 I’m currently learning front end development
+- 🌱 I’m front end developer 
 - 📫 find me on X .. Twitter
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
